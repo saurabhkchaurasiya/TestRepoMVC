@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Prepration\\TestWebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22EFCFEA-2832-4D75-A015-A7B2C08AFCC1}|Techonology.UI\\Techonology.UI.csproj|f:\\prepration\\testwebapplication\\techonology.ui\\views\\city\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22EFCFEA-2832-4D75-A015-A7B2C08AFCC1}|Techonology.UI\\Techonology.UI.csproj|solutionrelative:techonology.ui\\views\\city\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EFCFEA-2832-4D75-A015-A7B2C08AFCC1}|Techonology.UI\\Techonology.UI.csproj|f:\\prepration\\testwebapplication\\techonology.ui\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22EFCFEA-2832-4D75-A015-A7B2C08AFCC1}|Techonology.UI\\Techonology.UI.csproj|solutionrelative:techonology.ui\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D9B7FC-8AB7-4307-AF52-FC039F5C14D9}|Techonology.Repositories\\Techonology.Repositories.csproj|f:\\prepration\\testwebapplication\\techonology.repositories\\implementations\\staterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D9B7FC-8AB7-4307-AF52-FC039F5C14D9}|Techonology.Repositories\\Techonology.Repositories.csproj|solutionrelative:techonology.repositories\\implementations\\staterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EFCFEA-2832-4D75-A015-A7B2C08AFCC1}|Techonology.UI\\Techonology.UI.csproj|f:\\prepration\\testwebapplication\\techonology.ui\\views\\city\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22EFCFEA-2832-4D75-A015-A7B2C08AFCC1}|Techonology.UI\\Techonology.UI.csproj|solutionrelative:techonology.ui\\views\\city\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D9B7FC-8AB7-4307-AF52-FC039F5C14D9}|Techonology.Repositories\\Techonology.Repositories.csproj|f:\\prepration\\testwebapplication\\techonology.repositories\\implementations\\cityrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D9B7FC-8AB7-4307-AF52-FC039F5C14D9}|Techonology.Repositories\\Techonology.Repositories.csproj|solutionrelative:techonology.repositories\\implementations\\cityrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46F092A-CC08-482A-80AA-5DEC2EF907B4}|Techonology.Entities\\Techonology.Entities.csproj|f:\\prepration\\testwebapplication\\techonology.entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46F092A-CC08-482A-80AA-5DEC2EF907B4}|Techonology.Entities\\Techonology.Entities.csproj|solutionrelative:techonology.entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EFCFEA-2832-4D75-A015-A7B2C08AFCC1}|Techonology.UI\\Techonology.UI.csproj|f:\\prepration\\testwebapplication\\techonology.ui\\views\\state\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22EFCFEA-2832-4D75-A015-A7B2C08AFCC1}|Techonology.UI\\Techonology.UI.csproj|solutionrelative:techonology.ui\\views\\state\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46F092A-CC08-482A-80AA-5DEC2EF907B4}|Techonology.Entities\\Techonology.Entities.csproj|f:\\prepration\\testwebapplication\\techonology.entities\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46F092A-CC08-482A-80AA-5DEC2EF907B4}|Techonology.Entities\\Techonology.Entities.csproj|solutionrelative:techonology.entities\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EFCFEA-2832-4D75-A015-A7B2C08AFCC1}|Techonology.UI\\Techonology.UI.csproj|f:\\prepration\\testwebapplication\\techonology.ui\\views\\country\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22EFCFEA-2832-4D75-A015-A7B2C08AFCC1}|Techonology.UI\\Techonology.UI.csproj|solutionrelative:techonology.ui\\views\\country\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EFCFEA-2832-4D75-A015-A7B2C08AFCC1}|Techonology.UI\\Techonology.UI.csproj|f:\\prepration\\testwebapplication\\techonology.ui\\views\\state\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22EFCFEA-2832-4D75-A015-A7B2C08AFCC1}|Techonology.UI\\Techonology.UI.csproj|solutionrelative:techonology.ui\\views\\state\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EFCFEA-2832-4D75-A015-A7B2C08AFCC1}|Techonology.UI\\Techonology.UI.csproj|f:\\prepration\\testwebapplication\\techonology.ui\\views\\city\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22EFCFEA-2832-4D75-A015-A7B2C08AFCC1}|Techonology.UI\\Techonology.UI.csproj|solutionrelative:techonology.ui\\views\\city\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EFCFEA-2832-4D75-A015-A7B2C08AFCC1}|Techonology.UI\\Techonology.UI.csproj|f:\\prepration\\testwebapplication\\techonology.ui\\views\\state\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22EFCFEA-2832-4D75-A015-A7B2C08AFCC1}|Techonology.UI\\Techonology.UI.csproj|solutionrelative:techonology.ui\\views\\state\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EFCFEA-2832-4D75-A015-A7B2C08AFCC1}|Techonology.UI\\Techonology.UI.csproj|f:\\prepration\\testwebapplication\\techonology.ui\\controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22EFCFEA-2832-4D75-A015-A7B2C08AFCC1}|Techonology.UI\\Techonology.UI.csproj|solutionrelative:techonology.ui\\controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EFCFEA-2832-4D75-A015-A7B2C08AFCC1}|Techonology.UI\\Techonology.UI.csproj|f:\\prepration\\testwebapplication\\techonology.ui\\views\\state\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22EFCFEA-2832-4D75-A015-A7B2C08AFCC1}|Techonology.UI\\Techonology.UI.csproj|solutionrelative:techonology.ui\\views\\state\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EFCFEA-2832-4D75-A015-A7B2C08AFCC1}|Techonology.UI\\Techonology.UI.csproj|f:\\prepration\\testwebapplication\\techonology.ui\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22EFCFEA-2832-4D75-A015-A7B2C08AFCC1}|Techonology.UI\\Techonology.UI.csproj|solutionrelative:techonology.ui\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EFCFEA-2832-4D75-A015-A7B2C08AFCC1}|Techonology.UI\\Techonology.UI.csproj|f:\\prepration\\testwebapplication\\techonology.ui\\views\\country\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22EFCFEA-2832-4D75-A015-A7B2C08AFCC1}|Techonology.UI\\Techonology.UI.csproj|solutionrelative:techonology.ui\\views\\country\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EFCFEA-2832-4D75-A015-A7B2C08AFCC1}|Techonology.UI\\Techonology.UI.csproj|f:\\prepration\\testwebapplication\\techonology.ui\\views\\country\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22EFCFEA-2832-4D75-A015-A7B2C08AFCC1}|Techonology.UI\\Techonology.UI.csproj|solutionrelative:techonology.ui\\views\\country\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EFCFEA-2832-4D75-A015-A7B2C08AFCC1}|Techonology.UI\\Techonology.UI.csproj|f:\\prepration\\testwebapplication\\techonology.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22EFCFEA-2832-4D75-A015-A7B2C08AFCC1}|Techonology.UI\\Techonology.UI.csproj|solutionrelative:techonology.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EFCFEA-2832-4D75-A015-A7B2C08AFCC1}|Techonology.UI\\Techonology.UI.csproj|f:\\prepration\\testwebapplication\\techonology.ui\\views\\country\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22EFCFEA-2832-4D75-A015-A7B2C08AFCC1}|Techonology.UI\\Techonology.UI.csproj|solutionrelative:techonology.ui\\views\\country\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CityRepo.cs",
+              "DocumentMoniker": "F:\\Prepration\\TestWebApplication\\Techonology.Repositories\\Implementations\\CityRepo.cs",
+              "RelativeDocumentMoniker": "Techonology.Repositories\\Implementations\\CityRepo.cs",
+              "ToolTip": "F:\\Prepration\\TestWebApplication\\Techonology.Repositories\\Implementations\\CityRepo.cs",
+              "RelativeToolTip": "Techonology.Repositories\\Implementations\\CityRepo.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwBsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:27:42.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "City.cs",
+              "DocumentMoniker": "F:\\Prepration\\TestWebApplication\\Techonology.Entities\\City.cs",
+              "RelativeDocumentMoniker": "Techonology.Entities\\City.cs",
+              "ToolTip": "F:\\Prepration\\TestWebApplication\\Techonology.Entities\\City.cs",
+              "RelativeToolTip": "Techonology.Entities\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:20:32.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "F:\\Prepration\\TestWebApplication\\Techonology.UI\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "Techonology.UI\\Controllers\\CityController.cs",
+              "ToolTip": "F:\\Prepration\\TestWebApplication\\Techonology.UI\\Controllers\\CityController.cs",
+              "RelativeToolTip": "Techonology.UI\\Controllers\\CityController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:17:30.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StateRepo.cs",
+              "DocumentMoniker": "F:\\Prepration\\TestWebApplication\\Techonology.Repositories\\Implementations\\StateRepo.cs",
+              "RelativeDocumentMoniker": "Techonology.Repositories\\Implementations\\StateRepo.cs",
+              "ToolTip": "F:\\Prepration\\TestWebApplication\\Techonology.Repositories\\Implementations\\StateRepo.cs",
+              "RelativeToolTip": "Techonology.Repositories\\Implementations\\StateRepo.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA5wBsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T16:51:09.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "State.cs",
+              "DocumentMoniker": "F:\\Prepration\\TestWebApplication\\Techonology.Entities\\State.cs",
+              "RelativeDocumentMoniker": "Techonology.Entities\\State.cs",
+              "ToolTip": "F:\\Prepration\\TestWebApplication\\Techonology.Entities\\State.cs",
+              "RelativeToolTip": "Techonology.Entities\\State.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIAwwA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T16:48:27.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\Prepration\\TestWebApplication\\Techonology.UI\\Views\\State\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Techonology.UI\\Views\\State\\Delete.cshtml",
+              "ToolTip": "F:\\Prepration\\TestWebApplication\\Techonology.UI\\Views\\State\\Delete.cshtml",
+              "RelativeToolTip": "Techonology.UI\\Views\\State\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T16:17:23.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\Prepration\\TestWebApplication\\Techonology.UI\\Views\\State\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Techonology.UI\\Views\\State\\Edit.cshtml",
+              "ToolTip": "F:\\Prepration\\TestWebApplication\\Techonology.UI\\Views\\State\\Edit.cshtml",
+              "RelativeToolTip": "Techonology.UI\\Views\\State\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T16:15:31.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Prepration\\TestWebApplication\\Techonology.UI\\Views\\City\\Index.cshtml",
+              "RelativeDocumentMoniker": "Techonology.UI\\Views\\City\\Index.cshtml",
+              "ToolTip": "F:\\Prepration\\TestWebApplication\\Techonology.UI\\Views\\City\\Index.cshtml*",
+              "RelativeToolTip": "Techonology.UI\\Views\\City\\Index.cshtml*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwC8AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T18:27:14.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\Prepration\\TestWebApplication\\Techonology.UI\\Views\\City\\Create.cshtml",
+              "RelativeDocumentMoniker": "Techonology.UI\\Views\\City\\Create.cshtml",
+              "ToolTip": "F:\\Prepration\\TestWebApplication\\Techonology.UI\\Views\\City\\Create.cshtml",
+              "RelativeToolTip": "Techonology.UI\\Views\\City\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T17:44:00.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\Prepration\\TestWebApplication\\Techonology.UI\\Views\\State\\Create.cshtml",
+              "RelativeDocumentMoniker": "Techonology.UI\\Views\\State\\Create.cshtml",
+              "ToolTip": "F:\\Prepration\\TestWebApplication\\Techonology.UI\\Views\\State\\Create.cshtml",
+              "RelativeToolTip": "Techonology.UI\\Views\\State\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T16:14:54.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Prepration\\TestWebApplication\\Techonology.UI\\Views\\Country\\Index.cshtml",
+              "RelativeDocumentMoniker": "Techonology.UI\\Views\\Country\\Index.cshtml",
+              "ToolTip": "F:\\Prepration\\TestWebApplication\\Techonology.UI\\Views\\Country\\Index.cshtml",
+              "RelativeToolTip": "Techonology.UI\\Views\\Country\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T12:31:40.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Prepration\\TestWebApplication\\Techonology.UI\\Views\\State\\Index.cshtml",
+              "RelativeDocumentMoniker": "Techonology.UI\\Views\\State\\Index.cshtml",
+              "ToolTip": "F:\\Prepration\\TestWebApplication\\Techonology.UI\\Views\\State\\Index.cshtml",
+              "RelativeToolTip": "Techonology.UI\\Views\\State\\Index.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwCQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T16:14:14.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\Prepration\\TestWebApplication\\Techonology.UI\\Views\\City\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Techonology.UI\\Views\\City\\Edit.cshtml",
+              "ToolTip": "F:\\Prepration\\TestWebApplication\\Techonology.UI\\Views\\City\\Edit.cshtml",
+              "RelativeToolTip": "Techonology.UI\\Views\\City\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T17:44:39.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StateController.cs",
+              "DocumentMoniker": "F:\\Prepration\\TestWebApplication\\Techonology.UI\\Controllers\\StateController.cs",
+              "RelativeDocumentMoniker": "Techonology.UI\\Controllers\\StateController.cs",
+              "ToolTip": "F:\\Prepration\\TestWebApplication\\Techonology.UI\\Controllers\\StateController.cs",
+              "RelativeToolTip": "Techonology.UI\\Controllers\\StateController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAEwCUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:58:53.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\Prepration\\TestWebApplication\\Techonology.UI\\Views\\Country\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Techonology.UI\\Views\\Country\\Delete.cshtml",
+              "ToolTip": "F:\\Prepration\\TestWebApplication\\Techonology.UI\\Views\\Country\\Delete.cshtml",
+              "RelativeToolTip": "Techonology.UI\\Views\\Country\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T13:01:27.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Prepration\\TestWebApplication\\Techonology.UI\\Program.cs",
+              "RelativeDocumentMoniker": "Techonology.UI\\Program.cs",
+              "ToolTip": "F:\\Prepration\\TestWebApplication\\Techonology.UI\\Program.cs",
+              "RelativeToolTip": "Techonology.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:51:55.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\Prepration\\TestWebApplication\\Techonology.UI\\Views\\Country\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Techonology.UI\\Views\\Country\\Edit.cshtml",
+              "ToolTip": "F:\\Prepration\\TestWebApplication\\Techonology.UI\\Views\\Country\\Edit.cshtml",
+              "RelativeToolTip": "Techonology.UI\\Views\\Country\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T12:41:12.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\Prepration\\TestWebApplication\\Techonology.UI\\Views\\Country\\Create.cshtml",
+              "RelativeDocumentMoniker": "Techonology.UI\\Views\\Country\\Create.cshtml",
+              "ToolTip": "F:\\Prepration\\TestWebApplication\\Techonology.UI\\Views\\Country\\Create.cshtml",
+              "RelativeToolTip": "Techonology.UI\\Views\\Country\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T12:34:31.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "F:\\Prepration\\TestWebApplication\\Techonology.UI\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "Techonology.UI\\Controllers\\CountryController.cs",
+              "ToolTip": "F:\\Prepration\\TestWebApplication\\Techonology.UI\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "Techonology.UI\\Controllers\\CountryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:49:38.959Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+F:\Prepration\TestWebApplication\Techonology.Entities\bin\Debug\net8.0\Techonology.Entities.deps.json
+F:\Prepration\TestWebApplication\Techonology.Entities\bin\Debug\net8.0\Techonology.Entities.runtimeconfig.json
+F:\Prepration\TestWebApplication\Techonology.Entities\bin\Debug\net8.0\Techonology.Entities.dll
+F:\Prepration\TestWebApplication\Techonology.Entities\bin\Debug\net8.0\Techonology.Entities.pdb
+F:\Prepration\TestWebApplication\Techonology.Entities\obj\Debug\net8.0\Techonology.Entities.GeneratedMSBuildEditorConfig.editorconfig
+F:\Prepration\TestWebApplication\Techonology.Entities\obj\Debug\net8.0\Techonology.Entities.AssemblyInfoInputs.cache
+F:\Prepration\TestWebApplication\Techonology.Entities\obj\Debug\net8.0\Techonology.Entities.AssemblyInfo.cs
+F:\Prepration\TestWebApplication\Techonology.Entities\obj\Debug\net8.0\Techonology.Entities.csproj.CoreCompileInputs.cache
+F:\Prepration\TestWebApplication\Techonology.Entities\obj\Debug\net8.0\Techonology.Entities.dll
+F:\Prepration\TestWebApplication\Techonology.Entities\obj\Debug\net8.0\refint\Techonology.Entities.dll
+F:\Prepration\TestWebApplication\Techonology.Entities\obj\Debug\net8.0\Techonology.Entities.pdb
+F:\Prepration\TestWebApplication\Techonology.Entities\obj\Debug\net8.0\Techonology.Entities.genruntimeconfig.cache
+F:\Prepration\TestWebApplication\Techonology.Entities\obj\Debug\net8.0\ref\Techonology.Entities.dll

@@ -1,0 +1,15 @@
+F:\Prepration\TestWebApplication\Techonology.Repositories\bin\Debug\net8.0\Techonology.Repositories.deps.json
+F:\Prepration\TestWebApplication\Techonology.Repositories\bin\Debug\net8.0\Techonology.Repositories.dll
+F:\Prepration\TestWebApplication\Techonology.Repositories\bin\Debug\net8.0\Techonology.Repositories.pdb
+F:\Prepration\TestWebApplication\Techonology.Repositories\bin\Debug\net8.0\Techonology.Entities.dll
+F:\Prepration\TestWebApplication\Techonology.Repositories\bin\Debug\net8.0\Techonology.Entities.pdb
+F:\Prepration\TestWebApplication\Techonology.Repositories\obj\Debug\net8.0\Techonology.Repositories.csproj.AssemblyReference.cache
+F:\Prepration\TestWebApplication\Techonology.Repositories\obj\Debug\net8.0\Techonology.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+F:\Prepration\TestWebApplication\Techonology.Repositories\obj\Debug\net8.0\Techonology.Repositories.AssemblyInfoInputs.cache
+F:\Prepration\TestWebApplication\Techonology.Repositories\obj\Debug\net8.0\Techonology.Repositories.AssemblyInfo.cs
+F:\Prepration\TestWebApplication\Techonology.Repositories\obj\Debug\net8.0\Techonology.Repositories.csproj.CoreCompileInputs.cache
+F:\Prepration\TestWebApplication\Techonology.Repositories\obj\Debug\net8.0\Techonol.A285C07F.Up2Date
+F:\Prepration\TestWebApplication\Techonology.Repositories\obj\Debug\net8.0\Techonology.Repositories.dll
+F:\Prepration\TestWebApplication\Techonology.Repositories\obj\Debug\net8.0\refint\Techonology.Repositories.dll
+F:\Prepration\TestWebApplication\Techonology.Repositories\obj\Debug\net8.0\Techonology.Repositories.pdb
+F:\Prepration\TestWebApplication\Techonology.Repositories\obj\Debug\net8.0\ref\Techonology.Repositories.dll
